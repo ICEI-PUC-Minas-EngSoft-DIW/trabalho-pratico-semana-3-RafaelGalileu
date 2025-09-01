@@ -8,17 +8,16 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Rafael Galileu Thales Oliveira
+- Matricula: 904480
+- Proposta de projeto escolhida: 2. Lugares e Experiências
+- Breve descrição sobre seu projeto: Um site focado em museus, atrações e exposiçôes de belo horizonte, contendo endereço e avaliações.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![Print da Tela](images/PrintTela.png)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Framework](images/FrameWork.png)

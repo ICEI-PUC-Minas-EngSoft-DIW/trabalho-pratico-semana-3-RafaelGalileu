@@ -59,7 +59,7 @@ article {
     margin: 0 0 100px 0;
 }
 
-div {
+section {
     display: flex;
     flex-direction: column;
     background-color: rgb(255, 255, 255);
@@ -71,7 +71,7 @@ button {
     margin: 20px 0 100px 0;
 }
 
-div h2 {
+section h2 {
     text-align: left;
 }
 
@@ -88,7 +88,7 @@ margin: auto;
 .TextoArtigo{
 
     text-align: center;
-    font font-family: Roboto;
+    font-family: Roboto;
     font-size: 20px
 }
 footer{
@@ -101,6 +101,7 @@ footer{
     color: white;
     font-size: 15px;
     margin: 100px 0 0 0;
+    
     
 }
 .email{
@@ -118,7 +119,7 @@ a:hover{
     color: white;
     font-family: Montserrat;
 }
-div:hover {
+section:hover {
     display: flex;
     flex-direction: column;
     background-color: rgb(0, 70, 140);
